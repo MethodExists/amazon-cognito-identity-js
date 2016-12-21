@@ -21,12 +21,6 @@
     "url": "https://github.com/aws/amazon-cognito-identity-js.git"
   },
   "license": "SEE LICENSE IN LICENSE.txt",
-  "licenses": [
-    {
-      "type": "Amazon Software License",
-      "url": "http://aws.amazon.com/asl"
-    }
-  ],
   "keywords": [
     "amazon",
     "aws",
